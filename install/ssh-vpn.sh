@@ -304,10 +304,6 @@ wget -O v2raay "https://raw.githubusercontent.com/project-sc/alamyazid/main/menu
 wget -O ssh "https://raw.githubusercontent.com/project-sc/alamyazid/main/menu-all/ssh.sh"
 wget -O sstpp "https://raw.githubusercontent.com/project-sc/alamyazid/main/menu-all/sstpp.sh"
 wget -O ssssr "https://raw.githubusercontent.com/project-sc/alamyazid/main/menu-all/ssssr.sh"
-wget -O add-trgo "https://raw.githubusercontent.com/project-sc/alamyazid/main/tr-go/add-trgo.sh"
-wget -O renew-trgo "https://raw.githubusercontent.com/project-sc/alamyazid/main/tr-go/renew-trgo.sh"
-wget -O cek-trgo "https://raw.githubusercontent.com/project-sc/alamyazid/main/tr-go/cek-trgo.sh"
-wget -O del-trgo "https://raw.githubusercontent.com/project-sc/alamyazid/main/tr-go/del-trgo.sh"
 chmod +x add-host
 chmod +x script-info
 chmod +x menu
